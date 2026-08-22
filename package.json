@@ -1,6 +1,6 @@
 {
   "name": "onlybun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Terminates your program the moment it notices it is not running on Bun. Zero dependencies, CJS + ESM.",
   "type": "commonjs",
   "main": "./src/index.cjs",
@@ -27,7 +27,8 @@
   "files": [
     "LICENSE",
     "README.md",
-    "README.zh-TW.md",
+    "assets",
+    "docs",
     "src"
   ],
   "sideEffects": [

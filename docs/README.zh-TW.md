@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" alt="一顆活得好好的 bun" width="150">
+  <img src="../assets/logo.svg" alt="一顆活得好好的 bun" width="150">
 </p>
 
 <p align="center">
@@ -8,10 +8,9 @@
 
 # onlybun
 
-> [!WARNING]
-> **這個專案是給喜歡 Bun 的人用的。不喜歡 Bun 的話，請左轉 [neverbun](https://github.com/Dong-Chen-1031/neverbun)。**
+> ⚠️ **這個專案是給喜歡 Bun 的人用的。不喜歡 Bun 的話，請左轉 [neverbun](https://github.com/Dong-Chen-1031/neverbun)。**
 
-> [English Readme](./README.md)
+> [English Readme](../README.md)
 
 Import 一次，你的程式就拒絕在任何不是 Bun 的地方執行。零依賴，CJS 和 ESM 都支援，其他事情一概不管。
 

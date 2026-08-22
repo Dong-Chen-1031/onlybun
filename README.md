@@ -8,10 +8,9 @@
 
 # onlybun
 
-> [!WARNING]
-> **This project is for people who like Bun. If you don't like Bun, please go look at [neverbun](https://github.com/Dong-Chen-1031/neverbun) instead.**
+> ⚠️ **This project is for people who like Bun. If you don't like Bun, please go look at [neverbun](https://github.com/Dong-Chen-1031/neverbun) instead.**
 
-> [Traditional Chinese Readme](./README.zh-TW.md)
+> [Traditional Chinese Readme](./docs/README.zh-TW.md)
 
 Import it once, and your program refuses to run anywhere that isn't Bun. Zero dependencies, CJS and ESM, no opinions about anything else.
 
