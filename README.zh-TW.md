@@ -9,13 +9,13 @@
 # onlybun
 
 > [!WARNING]
-> **這個專案是給喜歡 Bun 的人用的。不喜歡 Bun 的話，請左轉 [nobun](https://github.com/Dong-Chen-1031/nobun)。**
+> **這個專案是給喜歡 Bun 的人用的。不喜歡 Bun 的話，請左轉 [neverbun](https://github.com/Dong-Chen-1031/neverbun)。**
 
 > [English Readme](./README.md)
 
 Import 一次，你的程式就拒絕在任何不是 Bun 的地方執行。零依賴，CJS 和 ESM 都支援，其他事情一概不管。
 
-[nobun](https://github.com/Dong-Chen-1031/nobun) 的邪惡雙胞胎，同一套機制，相反的結論。
+[neverbun](https://github.com/Dong-Chen-1031/neverbun) 的邪惡雙胞胎，同一套機制，相反的結論。
 
 ## 安裝
 

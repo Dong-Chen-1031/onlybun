@@ -9,13 +9,13 @@
 # onlybun
 
 > [!WARNING]
-> **This project is for people who like Bun. If you don't like Bun, please go look at [nobun](https://github.com/Dong-Chen-1031/nobun) instead.**
+> **This project is for people who like Bun. If you don't like Bun, please go look at [neverbun](https://github.com/Dong-Chen-1031/neverbun) instead.**
 
 > [Traditional Chinese Readme](./README.zh-TW.md)
 
 Import it once, and your program refuses to run anywhere that isn't Bun. Zero dependencies, CJS and ESM, no opinions about anything else.
 
-The evil twin of [nobun](https://github.com/Dong-Chen-1031/nobun), same machinery, opposite conclusion.
+The evil twin of [neverbun](https://github.com/Dong-Chen-1031/neverbun), same machinery, opposite conclusion.
 
 ## Install
 
