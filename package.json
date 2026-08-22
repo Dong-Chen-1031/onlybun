@@ -1,0 +1,61 @@
+{
+  "name": "onlybun",
+  "version": "1.0.0",
+  "description": "Terminates your program the moment it notices it is not running on Bun. Zero dependencies, CJS + ESM.",
+  "type": "commonjs",
+  "main": "./src/index.cjs",
+  "module": "./src/index.mjs",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "browser": "./src/browser.mjs",
+      "bun": "./src/index.mjs",
+      "node": "./src/unsupported.js",
+      "import": "./src/index.mjs",
+      "require": "./src/index.cjs",
+      "default": "./src/index.cjs"
+    },
+    "./check": {
+      "types": "./src/check.d.ts",
+      "import": "./src/check.mjs",
+      "require": "./src/core.cjs",
+      "default": "./src/core.cjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "README.zh-TW.md",
+    "src"
+  ],
+  "sideEffects": [
+    "./src/index.cjs",
+    "./src/index.mjs",
+    "./src/unsupported.js"
+  ],
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "scripts": {
+    "test": "bun test/run.cjs"
+  },
+  "keywords": [
+    "bun",
+    "runtime",
+    "node",
+    "guard",
+    "detect"
+  ],
+  "license": "MIT",
+  "author": "Dong-Chen-1031",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dong-Chen-1031/onlybun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dong-Chen-1031/onlybun/issues"
+  },
+  "homepage": "https://github.com/Dong-Chen-1031/onlybun#readme"
+}
