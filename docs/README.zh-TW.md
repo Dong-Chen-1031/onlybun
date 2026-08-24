@@ -6,6 +6,11 @@
   <em>這顆 bun 過得很好。你的 Node process 就沒那麼好了。</em>
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/onlybun"><img src="https://img.shields.io/npm/v/onlybun?color=cb3837&logo=npm&label=npm" alt="npm version"></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/npm/l/onlybun?color=blue" alt="MIT license"></a>
+</p>
+
 # onlybun
 
 > ⚠️ **這個專案是給喜歡 Bun 的人用的。不喜歡 Bun 的話，請左轉 [neverbun](https://github.com/Dong-Chen-1031/neverbun)。**
@@ -23,6 +28,8 @@ bun add onlybun
 ```
 
 對，用 Bun。不然呢。
+
+套件頁面：<https://www.npmjs.com/package/onlybun>
 
 ## 使用
 

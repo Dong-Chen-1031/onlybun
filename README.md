@@ -6,6 +6,11 @@
   <em>This bun is thriving. Your Node process, less so.</em>
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/onlybun"><img src="https://img.shields.io/npm/v/onlybun?color=cb3837&logo=npm&label=npm" alt="npm version"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/npm/l/onlybun?color=blue" alt="MIT license"></a>
+</p>
+
 # onlybun
 
 > ⚠️ **This project is for people who like Bun. If you don't like Bun, please go look at [neverbun](https://github.com/Dong-Chen-1031/neverbun) instead.**
@@ -23,6 +28,8 @@ bun add onlybun
 ```
 
 Yes, with Bun. Obviously.
+
+Package page: <https://www.npmjs.com/package/onlybun>
 
 ## Usage
 
